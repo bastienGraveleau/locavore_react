@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  
+  "main": "public/index.js",
+  "style": "public/styles.css",
+  "files": [
+    "public"
+  ],
+  "scripts": {
+    "start": "rollup -c -w",
+    "build": "rollup"
+  }
+}
